@@ -1,9 +1,5 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+excerpt: "Blog about software engineering - Scala, JVM, NoSQL, distributed systems and other cool things."
+tags: [Tech, Programming, Scala, Distributed Systems, JVM, NoSQL, Java, Clojure, machine learning, Cassandra, DynamoDB, AWS, Amazon Web Services, cloud computing, efficiency, software engineering, agile, TDD, DDD, functional programming]
 ---
