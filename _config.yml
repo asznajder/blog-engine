@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            asznajder.com
 locale:           en_US
 url:
 
@@ -21,17 +21,17 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
 
 # Site owner
 owner:
-  name: Your Name
+  name: Adam Sznajder
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
-  twitter: #username
+  bio: "Software Engineer, passionate Scala programmer, problems solving lover, efficiency fanatic, craft beers enthusiast."
+  email: adam.sznajder@gmail.com
+  disqus-shortname: asznajder
+  twitter: asznajder
   facebook: #username
   google:
     plus: #username
@@ -40,9 +40,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  github: asznajder
+  stackoverflow: 1243996/adam-sznajder
+  linkedin: adam-sznajder-bba01450
   xing: #username
   instagram: #username
   lastfm: #username
