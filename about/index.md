@@ -22,12 +22,12 @@ There are two types of people: those who are fascinated with something and those
 <br/>
 <br/>
 
-I live in Warsaw, Poland and currently work for Sumo Logic as a Cloud Software Engineer. Previously I worked for a Chicago-based hedge fund and conducted research and implemented algorithmic trading strategies. I really liked the research and development approach, but also always wanted to join some Silicon Valley startup. That's why I didn't have to think twice when an offer from Sumo appeared.
+I live in Warsaw, Poland and currently work for Sumo Logic as a Cloud Software Engineer. Previously I worked for a Chicago-based hedge fund. On my daily basis, I conducted research and implemented algorithmic trading strategies. I really liked the combination of science and software engineering, but also always wanted to join some Silicon Valley startup. That's why I didn't have to think twice when an offer from Sumo appeared.
 
 <br/>
 <br/>
 
-My technical areas of interest changed many times in the past. In high school I was mainly interested in IT security. During studies I was fascinated by operating systems internals and low level programming. At the same time, I was also very interested in functional programming and JVM and it's languages. After joining the Algorithmic Trading and Smart Execution Team at TradeLink, I started learning more about statistics and machine learning algorithms. Currently, I'm mainly interested in distributed systems and cloud computing. I still love solving algorithmic problems, JVM languages (especially Scala) and functional programming.    
+My technical areas of interest changed many times in the past. In high school I was mainly interested in IT security. During studies I was fascinated by operating systems internals and low level programming. At the same time, I was also very interested in functional programming, JVM and it's languages. After joining the Algorithmic Trading and Smart Execution Team at TradeLink, I started learning more about statistics and machine learning algorithms. Currently, I'm mainly interested in distributed systems and cloud computing. I still love solving algorithmic problems, JVM languages (especially Scala) and functional programming.    
 
 <br/>
 <br/>
