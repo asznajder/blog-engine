@@ -9,8 +9,8 @@ comments: false
 <img src="{{ site.url }}/images/about.jpg"/>
 
 
-<br/>**Working as:** Cloud Software Engineer @ Sumo Logic <br/><br/>
-**Living in:** Warsaw, Poland <br/><br/>
+<br/>**Works as:** Cloud Software Engineer @ Sumo Logic <br/><br/>
+**Lives in:** Warsaw, Poland <br/><br/>
 **Loves:** Scala, JVM, NoSQL, distributed systems, algorithms, functional programming, concurrency, operating systems.<br/><br/>
 **If not engineering then:** training CrossFit, travelling or reading books. <br/>
 
@@ -22,7 +22,7 @@ There are two types of people: those who are fascinated with something and those
 <br/>
 <br/>
 
-I live in Warsaw, Poland and currently work for Sumo Logic as a Cloud Software Engineer. Previously I worked for a Chicago-based hedge fund. On my daily basis, I conducted research and implemented algorithmic trading strategies. I really liked the combination of science and software engineering, but also always wanted to join some Silicon Valley startup. That's why I didn't have to think twice when an offer from Sumo appeared.
+I live in Warsaw, Poland and currently work for Sumo Logic as a Cloud Software Engineer. I'm responsible for developing in Scala a distributed platform for big machine data analysis. My main activity is finding bottlenecks and applying optimisations to reduce AWS usage costs. Previously I worked for a Chicago-based hedge fund. On my daily basis, I conducted research and implemented algorithmic trading strategies. I really liked the combination of science and software engineering, but also always wanted to join some Silicon Valley startup. That's why I didn't have to think twice when an offer from Sumo appeared.
 
 <br/>
 <br/>
