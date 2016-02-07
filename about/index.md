@@ -22,7 +22,7 @@ There are two types of people: those who are fascinated with something and those
 <br/>
 <br/>
 
-I live in Warsaw, Poland and currently work for Sumo Logic as a Cloud Software Engineer. I'm responsible for developing in Scala a distributed platform for big machine data analysis. My main activity is finding bottlenecks and applying optimisations to reduce AWS usage costs. Previously I worked for a Chicago-based hedge fund. On my daily basis, I conducted research and implemented algorithmic trading strategies. I really liked the combination of science and software engineering, but also always wanted to join some Silicon Valley startup. That's why I didn't have to think twice when an offer from Sumo appeared.
+I live in Warsaw, Poland and currently work for Sumo Logic as a Cloud Software Engineer. I'm responsible for developing in Scala a distributed platform for big machine data analysis. My main activity is finding bottlenecks and applying optimisations to reduce AWS usage costs. Previously I worked for a Chicago-based hedge fund. On my daily basis, I conducted research and implemented algorithmic trading strategies. I really liked the combination of science and software engineering, but also always wanted to join some Silicon Valley startup. That's why I didn't have to think twice when an offer from Sumo appeared. Before all of that, I worked for e-point which is one of the best software houses in Poland.
 
 <br/>
 <br/>
